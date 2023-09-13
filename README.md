@@ -13,6 +13,7 @@ O segundo projeto é chamado de RestAssurePojo2. Nele, há o código com a valid
 
 ## Criando arquivos e pastas
 
+Antes, será necessário configurar o TestNG, pois o script será rodado a partir desta biblioteca.
 São dois projetos distintos, sendo que o de relevância ao teste é o **RestAssurePojo2**.
 Ao importá-lo, o runner encontra-se dentro de src/test/java. Dentro desse diretório, estará presente o Pacote "sessao1". Dentro deste pacote, encontram-se duas classes. A "user.java", onde estão os objetos da classe Pojo. E a outra classe é a "serializarUser". Essa é a classe que será responsável em executar o script. 
 
