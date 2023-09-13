@@ -17,7 +17,7 @@ public class serializarUser {
 	@Test
 	public void criarJsonObject() throws JsonProcessingException {
 		
-		user u1 = new user();
+		User u1 = new User();
 		u1.setName("morpheus");
 		u1.setJob("leader");
 		
