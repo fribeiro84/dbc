@@ -1,6 +1,6 @@
 package sessao1;
 
-public class user {
+public class User {
 
 	
 	
